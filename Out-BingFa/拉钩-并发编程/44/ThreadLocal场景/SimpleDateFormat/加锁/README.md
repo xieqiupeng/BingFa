@@ -38,6 +38,7 @@ public class ThreadLocalDemo05 {
     }
 }
 ```
+
 可以看出在 date 方法中
 加入了 synchronized 关键字，
 把 simpleDateFormat 的调用
